@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-    <img src="https://url-shortener-857u.onrender.com/ewF0CQ1kf" width="50%"  alt="Error" style="border-radius:20%">
+    <img src="https://url-shortener-857u.onrender.com/ewF0CQ1kf" width="50%" height="50%"  alt="Error" style="border-radius:20%">
 </p>
 
 The canteen of Mumbai University, known as "Mumbai Munchies", is the heart of the university, beating with the laughter and conversations of students. As an aspiring Python programmer and a proud student of Mumbai University, you've decided to automate the canteen system to make the life of canteen staff easier and services faster.
