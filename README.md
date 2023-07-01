@@ -12,6 +12,39 @@ Objective: Using the basics of Python programming, you will create a command-lin
 
 <br>
 
+## Installation 
+
+```js
+git clone https://github.com/Amanmandal-M/Mumbai-Munchies-The-Canteen-Chronicle_-Assignment.git
+```
+
+<br>
+
+## Start Project
+
+```js
+  python index.py
+```
+
+<br>
+
+# All Steps how to start project :
+
+- Clone Repository first
+- Open Terminal
+- Write command `python index.py`
+- Use it by command
+
+Note: 
+
+ - Ensure you successfully installed python on your system or extensions in VSCode.
+
+<br>
+
+<i><strong><h2 align="center">Problem Statement or Informations</h2></strong></i>
+
+<br>
+
 ## Task Details:
 
 1. **Snack Inventory** : Your application should allow the canteen staff to manage their inventory of snacks. Each snack will have unique attributes, such as snack ID, snack name, price, and availability (yes or no).
@@ -54,3 +87,4 @@ The solution to this assignment will serve as the foundation for the "Zomato Chr
 3. Error Handling: Does the application handle invalid user input gracefully and prevent illegal actions like selling unavailable snacks?
 
 Good luck !
+
